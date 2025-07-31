@@ -24,7 +24,7 @@ For non-security bugs, requesting new features, etc., see [our Support docs](SUP
 The project team and community take security seriously. We appreciate your efforts to responsibly disclose your findings, 
 and will make every effort to acknowledge your contributions.
 
-To report a security issue, email [ao5357@gmail.com](mailto:ao5357@gmail.com) and format the subject line like so:
+To report a security issue, email [ruvasqm@gmail.com](mailto:ruvasqm@gmail.com) and format the subject line like so:
 
 ```
 [SECURITY: severity: project-name] Short description of vulnerability

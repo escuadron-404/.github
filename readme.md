@@ -11,7 +11,3 @@ Each file is written as generically as possible, so that its text can apply to a
 
 Anywhere that a repo doesn't have a particular template .github file, the files in this repo will automatically help you 
 out.
-
-### For your organization
-
-Just fork this repo into your organization and then edit the files as applicable.
