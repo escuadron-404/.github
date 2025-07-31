@@ -1,3 +1,11 @@
+---
+name: Feature/Component Development
+about: Create an issue for developing a new feature or component.
+title: "[Feature/Component]: Short, Descriptive Title"
+labels: enhancement, needs-triage
+assignees: ''
+---
+
 ## [Feature/Component]: Short, Descriptive Title
 
 **Description:**
@@ -55,3 +63,4 @@ This issue covers the development of [briefly describe the feature/component]. I
 *   [Edge cases that might be tricky]
 *   [Future considerations that are out of scope for this issue but good to note]
 
+---

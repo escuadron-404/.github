@@ -1,3 +1,11 @@
+---
+name: Pull Request
+about: Create a pull request to merge your changes.
+title: "[Type]: Short, descriptive summary of changes"
+labels: ''
+assignees: ''
+---
+
 ## Pull Request: [Type]: Short, descriptive summary of changes
 
 **Related Issue(s):**
@@ -84,3 +92,4 @@
 
 (Any additional notes, known issues, or areas for future improvement related to this PR that are out of scope for this specific change.)
 
+---
