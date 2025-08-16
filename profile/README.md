@@ -1,3 +1,3 @@
 # Escuadrón 404
 
-Un grupo de progamadores que empezaron en Venezuela.
+Un grupo de programadores que empezaron en Venezuela.
